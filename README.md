@@ -1,16 +1,27 @@
-### Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**blyatmobilebr/blyatmobilebr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaslimabr/)](https://www.linkedin.com/in/lucaslimabr/) [![Gmail Badge](https://img.shields.io/badge/-lucaslima2458@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaslima2458@gmail.com)](mailto:lucaslima2458@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Lucas Lima 😃. I'm from Parana, Brazil and I'm currently learning React.js, MongoDB, Express.js and GraphQL.🏫.I love learning new things.
+## ⚡ Technologies
+Knowledge:
+- Frontend development: **HTML, CSS3, JS, React.js, Material-UI, Styled Components, React-bootstrap, Flexbox, CSS Grid, Bootstrap**
+- Backend development: **Node.js and Python**
+- Database: **MongoDB**
+## Courses:
+- MongoDB Basics (M001) in (https://university.mongodb.com/)
+## Planning On:
+- Learn **TypeScript**
+- Learn **PostgreSQL**
+- Dive into the **GraphQL ecosystem** in the near future
+- Learn **Docker**
+## Hello World!! 🤔
+- 💬 Ask me about anything and everything.
+- ⚡ Fun facts: I've been learning everything related to programming through YouTube channels, forums and Discord servers; learned English on my own when I was 6yo :D
+
+![Blyatmobilebr's github stats](https://github-readme-stats.vercel.app/api?username=blyatmobilebr&hide=[%22issues%22]&show_icons=true)
+
+
+```⭐️ From [harshkumarkhatri](https://github.com/harshkumarkhatri)```
