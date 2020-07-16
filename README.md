@@ -11,7 +11,7 @@ Knowledge:
 - Backend development: **Node.js and Python**
 - Database: **MongoDB**
 ## Courses:
-- MongoDB Basics (M001) in (https://university.mongodb.com/)
+- MongoDB Basics (M001) in [MongoDB Univeristy](https://university.mongodb.com/)
 ## Planning On:
 - Learn **TypeScript**
 - Learn **PostgreSQL**
