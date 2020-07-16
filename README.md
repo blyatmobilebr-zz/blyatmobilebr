@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaslimabr/)](https://www.linkedin.com/in/lucaslimabr/) [![Gmail Badge](https://img.shields.io/badge/-lucaslima2458@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaslima2458@gmail.com)](mailto:lucaslima2458@gmail.com)
 
-I'm Lucas Lima 😃. I'm from Parana, Brazil and I'm currently learning React.js, MongoDB, Express.js and GraphQL.🏫.I love learning new things.
+I'm Lucas Lima 😃. I'm from Parana, Brazil and I'm currently learning React.js, MongoDB, Express.js and GraphQL.🏫. I love learning new things.
 ## ⚡ Technologies
 Knowledge:
 - Frontend development: **HTML, CSS3, JS, React.js, Material-UI, Styled Components, React-bootstrap, Flexbox, CSS Grid, Bootstrap**
@@ -21,7 +21,7 @@ Knowledge:
 - 💬 Ask me about anything and everything.
 - ⚡ Fun facts: I've been learning everything related to programming through YouTube channels, forums and Discord servers; learned English on my own when I was 6yo :D
 
-![Blyatmobilebr's github stats](https://github-readme-stats.vercel.app/api?username=blyatmobilebr&hide=[%22issues%22]&show_icons=true)
+![Blyatmobilebr' github stats](https://github-readme-stats.vercel.app/api?username=blyatmobilebr&hide=[%22issues%22]&show_icons=true)
 
 
 ```⭐️ From [harshkumarkhatri](https://github.com/harshkumarkhatri)```
