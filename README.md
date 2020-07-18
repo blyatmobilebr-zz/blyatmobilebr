@@ -10,6 +10,8 @@ Knowledge:
 - Frontend development: **HTML, CSS3, JS, React.js, Material-UI, Styled Components, React-bootstrap, Flexbox, CSS Grid, Bootstrap**
 - Backend development: **Node.js and Python**
 - Database: **MongoDB**
+- Version Control: **Git**
+- Authentication/Authorization: **JWT**
 ## Courses:
 - MongoDB Basics (M001) in [MongoDB University](https://university.mongodb.com/)
 ## Planning On:
