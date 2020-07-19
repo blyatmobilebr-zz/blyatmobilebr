@@ -17,6 +17,7 @@ Knowledge:
 ## Planning On:
 - Learn **TypeScript**
 - Learn **PostgreSQL**
+- Learn **Unit**, **Integration** and **E2E** testings
 - Dive into the **GraphQL ecosystem** in the near future
 - Learn **Docker**
 ## Hello World!! 🤔
