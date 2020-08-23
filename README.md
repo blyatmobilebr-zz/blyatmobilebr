@@ -16,11 +16,11 @@ Knowledge:
 ## Currently:
 - Learning (and loving) **Rust**
 ## Planning On:
-- Learn **C** and **C++**
-- Learn **Assembly**
-- Learn **PostgreSQL**
-- Learn **Unit**, **Integration** and **E2E** testings
-- Learn **Docker**
+- Learning **C** and **C++**
+- Learning **Assembly**
+- Learning **PostgreSQL**
+- Learning **Unit**, **Integration** and **E2E** testings
+- Learning **Docker**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - ⚡ Fun facts: I've been learning everything related to programming through YouTube channels, forums and Discord servers; learned English on my own when I was 6yo :D
