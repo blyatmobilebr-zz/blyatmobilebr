@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaslimabr/)](https://www.linkedin.com/in/lucaslimabr/) [![Gmail Badge](https://img.shields.io/badge/-lucaslima2458@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaslima2458@gmail.com)](mailto:lucaslima2458@gmail.com)
 
-I'm Lucas Lima 😃. I'm from Parana, Brazil and I'm currently learning React.js, MongoDB, Express.js and GraphQL.🏫. I love learning new things.
+I'm Lucas Lima. I'm from Brazil, I love learning new things and I'm ready for challenges!
 ## ⚡ Technologies
 Knowledge:
 - Frontend development: **HTML, CSS3, JS, React.js, Material-UI, Styled Components, React-bootstrap, Flexbox, CSS Grid, Bootstrap**
@@ -13,12 +13,14 @@ Knowledge:
 - Version Control: **Git**
 - Authentication/Authorization: **JWT**
 ## Courses:
-- MongoDB Basics (M001) in [MongoDB University](https://university.mongodb.com/)
+- Going to start **Software Engineering** in October (4-year course)
+## Currently:
+- Learning (and loving) **Rust**
 ## Planning On:
-- Learn **TypeScript**
+- Learn **C** and **C++**
+- Learn **Assembly**
 - Learn **PostgreSQL**
 - Learn **Unit**, **Integration** and **E2E** testings
-- Dive into the **GraphQL ecosystem** in the near future
 - Learn **Docker**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
