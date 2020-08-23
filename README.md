@@ -7,7 +7,6 @@
 I'm Lucas Lima. I'm from Brazil, I love learning new things and I'm ready for challenges!
 ## ⚡ Technologies
 Knowledge:
-- Frontend development: **HTML, CSS3, JS, React.js, Material-UI, Styled Components, React-bootstrap, Flexbox, CSS Grid, Bootstrap**
 - Backend development: **Node.js and Python**
 - Database: **MongoDB**
 - Version Control: **Git**
