@@ -12,7 +12,7 @@ Knowledge:
 - Version Control: **Git**
 - Authentication/Authorization: **JWT**
 ## Courses:
-- Going to start **Software Engineering** in October (4-year course)
+- Going to start **Software Engineering** on October (4-year course)
 ## Currently:
 - Learning (and loving) **Rust**
 ## Planning On:
