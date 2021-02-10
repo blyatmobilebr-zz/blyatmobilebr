@@ -10,17 +10,15 @@ Knowledge:
 - Backend development: **Node.js and Python**
 - Database: **MongoDB**
 - Version Control: **Git**
-- Authentication/Authorization: **JWT**
 ## Courses:
-- Going to start **Software Engineering** on October (4-year course)
+- **Software Engineering** 2020-2024
 ## Currently:
-- Learning (and loving) **Rust**
+- Learning **C++** and **x86-64 Assembly** focused on **Malware Analysis**
 ## Planning On:
-- Learning **C** and **C++**
-- Learning **Assembly**
-- Learning **PostgreSQL**
-- Learning **Unit**, **Integration** and **E2E** testings
-- Learning **Docker**
+- Learning **Network and Binary Analysis**
+- Learning **RISC-V Assembly**
+- Learning about **Exploits**
+- Learning **Hardware/Software Reverse Engineering**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - ⚡ Fun facts: I've been learning everything related to programming through YouTube channels, forums and Discord servers; learned English on my own when I was 6yo :D
