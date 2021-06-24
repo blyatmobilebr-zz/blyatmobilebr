@@ -4,24 +4,24 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaslimabr/)](https://www.linkedin.com/in/lucaslimabr/) [![Gmail Badge](https://img.shields.io/badge/-lucaslima2458@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaslima2458@gmail.com)](mailto:lucaslima2458@gmail.com)
 
-I'm Lucas Lima. I'm from Brazil, I love learning new things and I'm ready for challenges!
+I'm Lucas. I love learning new things and I'm ready for challenges!
 ## ⚡ Technologies
 Knowledge:
-- Backend development: **Node.js and Python**
-- Database: **MongoDB**
+- Backend development: **Node.js, C++ and Python**
+- Database: **MongoDB and Firebase DB**
 - Version Control: **Git**
 ## Courses:
-- **Software Engineering** 2020-2024
+- **Software Engineering** at Unicesumar (2020-2024)
 ## Currently:
-- Learning **C++** and **x86-64 Assembly** focused on **Malware Analysis**
+- Preparing myself for the **CCNA 200-301** and **LPIC-1** certifications
 ## Planning On:
-- Learning **Network and Binary Analysis**
-- Learning **RISC-V Assembly**
-- Learning about **Exploits**
-- Learning **Hardware/Software Reverse Engineering**
+- Getting the **CCNP R/S** and **LPIC-2** certs
+- Getting the **CCNA and CCNP Security** certs
+- Learning about **Network Exploitation**
+- Learning about **x86-64 ASM**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
-- ⚡ Fun facts: I've been learning everything related to programming through YouTube channels, forums and Discord servers; learned English on my own when I was 6yo :D
+- ⚡ Fun facts: I've been learning everything related to programming through YouTube channels, forums and Discord servers;
 
 ![Blyatmobilebr' github stats](https://github-readme-stats.vercel.app/api?username=blyatmobilebr&hide=[%22issues%22]&show_icons=true)
 
