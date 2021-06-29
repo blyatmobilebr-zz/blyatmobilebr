@@ -18,7 +18,7 @@ Knowledge:
 - Getting the **CCNP R/S** and **LPIC-2** certs
 - Getting the **CCNA and CCNP Security** certs
 - Learning about **Network Exploitation**
-- Learning about **x86-64 ASM**
+- Learning more about **x86-64 ASM**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - ⚡ Fun facts: I've been learning everything related to programming through YouTube channels, forums and Discord servers;
